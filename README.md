@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
