@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
