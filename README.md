@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1929-concatenation-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -69,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
