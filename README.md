@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
