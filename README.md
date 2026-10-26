@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
 |  |
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
