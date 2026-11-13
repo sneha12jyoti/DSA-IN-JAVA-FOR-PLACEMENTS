@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
@@ -64,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0169-majority-element) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
