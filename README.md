@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0704-binary-search) |
+| [1177-can-make-palindrome-from-substring](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1177-can-make-palindrome-from-substring) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1672-richest-customer-wealth) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1177-can-make-palindrome-from-substring](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1177-can-make-palindrome-from-substring) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1177-can-make-palindrome-from-substring](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1177-can-make-palindrome-from-substring) |
 | [1480-running-sum-of-1d-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3364-minimum-positive-sum-subarray) |
@@ -141,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0647-palindromic-substrings) |
+| [1177-can-make-palindrome-from-substring](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1177-can-make-palindrome-from-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
+| [1177-can-make-palindrome-from-substring](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1177-can-make-palindrome-from-substring) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
