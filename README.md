@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
 |  |
 | ------- |
