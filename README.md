@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0053-maximum-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0647-palindromic-substrings) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1267-count-servers-that-communicate) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
