@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1903-largest-odd-number-in-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1332-remove-palindromic-subsequences) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
