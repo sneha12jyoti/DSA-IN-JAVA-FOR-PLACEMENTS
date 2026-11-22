@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Bit Manipulation
 |  |
 | ------- |
