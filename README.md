@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sneha12jyoti/DSA-IN-JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/1903-largest-odd-number-in-string) |
+| [3360-stone-removal-game](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sneha12jyoti/DSA-IN-JAVA-FOR-PLACEMENTS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
